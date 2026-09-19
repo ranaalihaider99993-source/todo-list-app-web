@@ -1,0 +1,6 @@
+{
+  "name": "To-Do List Application",
+  "description": "Frontend practice project demonstrating HTML5, CSS3, JavaScript event handling, and DOM manipulation for interactive task management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
